@@ -1,0 +1,43 @@
+/* ===================================================================
+ * # HERO 
+ *
+ * ------------------------------------------------------------------- */
+
+ .grid-item {
+    padding: 24rem 0rem 0rem 10rem;
+    float: 'left';
+}
+
+
+
+/* Cool little line on the home content */
+.home-content-line{
+    display: block;
+    width: 2px;
+    height: 10.2rem;
+    position: absolute;
+    right: 7.2rem;
+    bottom: 0;
+}
+
+/* ===================================================================
+ * # HERO Animations 
+ *
+ * ------------------------------------------------------------------- */
+
+ .slide{
+     animation: slide 1s ease-in forwards
+ }
+
+ @keyframes slide {
+     0%{
+         transform: translateY(80px);
+         opacity: 0;
+
+     }
+     100% {
+         transform: translateX(0px);
+         opacity: 100;
+
+     }
+ }

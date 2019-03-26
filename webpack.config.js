@@ -16,6 +16,19 @@ module.exports = {
                 use: {
                     loader: "babel-loader"
                 }
+            },
+            //rule for loading stylesheets, and applying css styles
+            {
+                test: /\.css$/,
+                use: [
+                    { loader: "style-loader" },
+                    {
+                        loader: "css-loader",
+                        options: {
+                            modules: true //turn this flag off if scoped css modules isn't being used
+                        }
+                    }
+                ]
             }
         ]
     },
