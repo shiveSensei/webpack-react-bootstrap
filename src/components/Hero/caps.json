@@ -1,0 +1,149 @@
+{
+    "Capabilities": [
+        {
+            "id": "0",
+            "name": "Engineering and Technical Services",
+            "description": "All Points provides engineering capabilities and services in areas such as Systems Integration, Design, Software Development and Operation and Maintenance for a wide range of Aerospace, Aviation and Intelligence customers.",
+            "subs": [
+                {
+                    "subName": "Aerospace Systems",
+                    "subDescription": "All Points provides a wide range of aerospace systems capability, including mechanical, electrical, fluids and software engineering. Within the various disciplines, our capabilities include full lifecycle development, research, design, development, construction, testing, operations, maintenance and disposition. Our engineers have extensive experience working with launch vehicles, ground support equipment, mission operations and control systems."
+                },
+                {
+                    "subName": "System Integration",
+                    "subDescription": "All Points utilizes our in-depth knowledge of engineering principles, hardware / software systems design, and integration techniques to deliver effective systems integration products to our customers. Our systems integration engineering personnel bring a breadth of systems engineering expertise that spans all areas of systems integration, and our demonstrated methodologies produce value-added solutions to our customers. Our integration experience includes working with such customers as NASA, the Missile Defense Agency (MDA), the Veterans Administration (VA) and the Federal Emergency Management Agency (FEMA), providing systems integration support for spacecraft, sensors, weapons, and IT and communications systems."
+                },
+                {
+                    "subName": "Design and Analysis",
+                    "subDescription": "All Points provides NASA and DoD with a broad range of design and analysis support that includes such functional areas as thermal, fluids, cryogenics, propulsion, mechanical, structural, materials and processes, contamination control and debris transport. All Points engineers are well versed in the use of state-of-the-art analytical tools, delivering our customers critical design data to support programs such as NASA’s Space Launch System (SLS) and the Orion Multi-Purpose Crew Vehicle (MPCV)."
+                },
+                {
+                    "subName": "Modeling and Simulation",
+                    "subDescription": "Our well-versed, experienced engineers develop products which accurately provide modeling and simulation environments that improve the quality of products and systems, while reducing development, deployment and operational cost and risks. Our experience in this area includes performing Modeling and Simulation (M&S) requirements analysis and planning for the Missile Defense Agency (MDA) and NASA, including M&S requirements for the Ares I Upper Stage and propulsion systems and the International Space Station’s Water Recovery System and Oxygen Generation Assembly."
+                },
+                {
+                    "subName": "Software Development",
+                    "subDescription": "All Points provides software development, integration, testing, verification and validation for critical software projects for our customers such as NASA, MDA and NSA, including spacecraft flight software, sensor programs and intelligence data. Our team is well versed in the use of a broad suite of development tools covering the full spectrum of current development platforms and environments. With our capabilities, All Points strives to stay on the leading edge of this rapidly evolving field, and our support to NASA on the Orion Multi-Purpose Crew Vehicle (MPCV) clearly establishes All Points as a trusted partner in this critical program."
+                },
+                {
+                    "subName": "Operations and Maintenance",
+                    "subDescription": "All Points provides Operations and Maintenance (O&M) capabilities in areas such as preventative/ predictive maintenance, corrective actions, maintenance planning, and systems operations. Our team of engineers and technicians are well versed at applying industry best practices in the development of procedures and associated field operations, ensuring that systems remain in a support-ready posture, while emphasizing safety. We provide capability to utilize a variety of work control systems, integrating procedures, technology and people to increase readiness levels while controlling operational costs."
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "name": "Information Technology",
+            "description": "All Points provides IT expertise and services to meet the demands of today’s evolving environments and security challenges. Our services cover a broad spectrum, including network infrastructure, hardware, software, systems operations and integrated solutions.",
+            "subs": [
+                {
+                    "subName": "Information Technology Service & Management",
+                    "subDescription": "All Points provides IT services and solutions, including help desk and service desk operations; end-user IT support, incident response and trouble resolution; data center design, operations and maintenance; server, software and applications administration; and critical and specialized computer system support and maintenance. All Points integrates ITIL-based processes and practices with industry leading tools and applications to provide responsive and effective IT services, troubleshooting and resolution; the highest levels of customer satisfaction; and maximum system availability and accessibility. All Points was recently contracted to provide a holistic IT approach to the Michaud Assembly Facility (MAF) in New Orleans, LA to ensure the goals and initiatives of the Space Launch System (SLS) Team are delivered without exception."
+                },
+                {
+                    "subName": "Cybersecurity and Information Assurance",
+                    "subDescription": "All Points provides cybersecurity services that protect mission critical systems, data and information through the application of industry-proven technology, tools and processes. All Points supports government agencies and contractors in complying with and attaining required certification and accreditation and preforming all DIACAP compliance and evaluations. All Points support to the Launch and Test Range System Contract at Vandenberg AFB, CA and Patrick AFB, FL included managing and obtaining DIACAP certification and accreditation during the development and testing of the launch, command and control, network and instrumentation systems throughout the eastern and western space ranges."
+                },
+                {
+                    "subName": "Software & Applications Development",
+                    "subDescription": "All Points provides software development, integration, testing, verification and validation for critical software projects for our customers. Working with federal agencies such as NASA, MDA and NSA, All Points strives to stay on the leading edge of this rapidly evolving field. Our team is well versed in the use of a broad suite of development tools covering the full spectrum of current development platforms and environments. Our expert IT engineers provide software and applications development for spacecraft flight and ground software, sensor programs and intelligence data. Our support to NASA includes developing business systems and web applications to support International Space Station operations, utilization and maintenance. All Points also develop software, data systems and mobile computing applications in support of MDA, NSA and DIA."
+                },
+                {
+                    "subName": "Data Warehousing & Configuration Control",
+                    "subDescription": "All Points provides cutting edge solutions for data warehousing and information control across the full range of data systems, including big data solutions, mobile collaborative systems, and task-specific data management systems. All Points solutions provide diverse technology, expansive collaboration capabilities, and streamlined seamless integration of multi-source data from a variety of collection techniques. Our solutions provide easy techniques for collecting and archiving data and allow user to leverage the data through easy access, analysis and consumption of critical data and information. In support the NASA’s Human Space Flight Program, All Points provides resources, processes and techniques to collect and analyze data to greater understand the physiological effects of space on humans."
+                },
+                {
+                    "subName": "Enterprise Architecture System Integration",
+                    "subDescription": "All Points provides enterprise architecture capabilities across the full spectrum of today’s challenging IT environments. We utilize our architecture expertise to leverage solutions derived from both our in-house hardware/software engineers and our industry OEM partners. Our solutions include one of the most complex information management systems at the Federal Emergency Management Agency (FEMA). This enterprise-based, comprehensive, Web-based, emergency management information software solution for the National Response Coordination Center (NRCC) and Joint Field Offices provides a single integrated solution for situational awareness, common operating picture, information and knowledge management, business workflow process management and general reports. All Points has provided comparable support to other agencies, such as VA, MDA, DHS and NASA."
+                },
+                {
+                    "subName": "Network-Centric IT Solutions",
+                    "subDescription": "Through rapid deployment of standardized practices that are consistent with industry best practices, All Points provides planning, design, evaluation, test, deployment, operations, administration, maintenance, sustainment and decommission of numerous network technologies and systems, including wired and wireless networks, fiber, LAN, WAN, RF and secure and evolving communications systems. All Points provides custom network-centric solutions that include on-site, mobile and/or remote monitoring, operations and controls. All Points provides advanced communication systems, IP telephony technology and secure communications systems and networks to the U.S. Army Reserves at more than 30 secure facilities across the U.S. and aboard. Our network solutions integrate audio, video and data in both secure and non-secure environments."
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Integrated Logistics",
+            "description": "All Points provides full-service contract logistics capabilities specializing in the cost-effective Life-cycle analysis, design and management of product transportation, storage, distribution and integrated logistics services.",
+            "subs": [
+                {
+                    "subName": "Operational Readiness & Sustainment",
+                    "subDescription": "All Points provides insights and plans to support fielded systems and their subsequent life cycle product support—from supply chain management and maintenance to policy and procedure compliance review. All Points provides logistics personnel with the knowledge and expertise to develop, execute, and assess pre-operational and operational activities throughout a project’s life cycle to sustain a unit’s flexibility, reliability and maintainability and ensure optimum operational readiness."
+                },
+                {
+                    "subName": "Integrated Logistics Support Plan (ILSP)",
+                    "subDescription": "All Points provides the ILSP to identify and define all logistics planning activities, providing an iterative, integrated materiel and support strategy to optimize functional support, leverage resources and guide the processes and procedures to reduce costs and increase efficiency. The ILSP is used as a life cycle document to ensure suitable logistics support over a project’s entire life cycle. All Points strategically analyzes each section of the plan to provide a brief description of each of the 14 integrated logistics support elements, including Product Support Management, Supply Support, Maintenance Management, Support Equipment, Training Support, Sustaining Engineering and more."
+                },
+                {
+                    "subName": "Logistics Support Analysis (LSA)",
+                    "subDescription": "All Points logistics personnel are skilled and experienced analysts of program and task requirements, providing the expertise to plan and execute a full spectrum of logistics support. We apply the selective application of scientific and engineering quantitative and qualitative analysis to supportability, forecasting material requirements and procuring and acquiring material in advance of complex, multi-faceted projects. We begin LSA during concept phases as part of the acquisition process to achieve integrated logistic support objectives for design participation, while providing the framework necessary to do effective levels of repair, provisioning, and life cycle support analyses."
+                },
+                {
+                    "subName": "Property Management",
+                    "subDescription": "The All Points team is comprised of high-end property and technology experts, with broad expertise and knowledge of the ever-changing rules and regulations regarding the management of government property. Drawing from over 17 years’ experience as a DoD and NASA contractor and subcontractor, All Points has extensive capability in the fields of RFID, asset management and warehouse operations. Our work has provided us with legacy knowledge of DoD and NASA’s mission and vision, preferred modes of operation, and rules and regulations as they pertain to property management services."
+                },
+                {
+                    "subName": "Base Operations Support",
+                    "subDescription": "All Points’ portfolio of base operations support services includes specialization in supply operations, transportation services, fleet management, equipment sustainment and maintenance, troop issue subsistence activities, freight and personal property shipping and receiving, tenant construction and Sensitive Compartmented Information Facility (SCIF) construction, with the capability to perform work anywhere on the globe. All Points performs Logistics Readiness Center (LRC) tasks for the Missile Defense Agency (MDA) and NASA in the critical areas of Maintenance, Supply and Transportation."
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Program Management",
+            "description": "All Points uses Program and Project Management Tools and Processes to provide our customers with demonstrated performance in the oversight and management of complex government contacts including areas such as EVM.",
+            "subs": [
+                {
+                    "subName": "Federal Contract Management",
+                    "subDescription": "All Points performs program management across numerous federal agencies and contracts, providing cost and financial management, product scheduling and deliveries, safety and health assurance, human relations and factors, work control, subcontractor management, quality assurance, metric development and surveillance, and all aspects of reporting for a diverse set of contract types, including Firm-Fixed Price, Cost Reimbursable and Indefinite-Delivery- Indefinite-Quantity (IDIQ)."
+                },
+                {
+                    "subName": "Project Management",
+                    "subDescription": "All Points provides project management support, tools and processes to meet the needs of our customers at the project level, including facility upgrades or repurposing; IT system deployment and installations; software and application development, test and deployment; engineering product delivery; and logistics operations. All Points subscribes and deploys best practices and lessons learned across our broad portfolio of projects and customers, utilizing collaborative tools and knowledge management best practices."
+                },
+                {
+                    "subName": "System Engineering and Technical Assistance (SETA)",
+                    "subDescription": "All Points provides System Engineering and Technical Assistance (SETA) that includes assisting our customers in the development of program objectives and requirements; analyzing requirements and metrics; developing plans, schedules, cost forecasts, estimates and budgets; and providing acquisition strategy, contract development, technical oversight, and participation in the development, deployment, operation, and sustainment of technical products used in support of civil and military objectives."
+                },
+                {
+                    "subName": "Business Systems Developement and Deployment",
+                    "subDescription": "All Points supports federal agencies and other large businesses in the formulation of information system architecture and the development and deployment of business systems, which help organizational units achieve operational efficiencies through effective analysis tools and integrated business systems. All Points has integrated a number of commercial-off-the-shelf (COTS) applications including financial, work control, earned value, service desk, resource planning, and scheduling tools and has built and integrated customer applications and database exchange technology to facilitate timely collection and analysis of actionable data."
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Government Solutions (VAR)",
+            "description": "As a premier Value Added Reseller (VAR), All Points provides a wide range of hardware and software integration and solution options enhanced by our outstanding relationships with top industry suppliers and OEMs",
+            "subs": [
+                {
+                    "subName": "Networking",
+                    "subDescription": "A secure, stable networking environment is at the core of modern communication and has become a vital component to national security. All Points performs networking services for both wired and wireless technologies, linking computers, radios and other telecommunications devices to provide essential services, such as email, instant messaging, video conferencing, telephones, and shared storage. Our network engineers test, approve and enable endpoints to provide secure access to our customers’ data and resources to facilitate and maximize effective communication organization-wide."
+                },
+                {
+                    "subName": "Cyber Security",
+                    "subDescription": "In the current technological environment, where various devices in numerous locations contain and relay private and/or proprietary information, the need for cyber security is at an all-time high. Protecting data from unauthorized access, change or destruction due to cyber-attack, unplanned events or natural disasters is one of All Points’ core capabilities. All Points designs, installs, and manages organization-wide security systems by examining and evaluating exposures in the infrastructure. We understand the various types of attacks that can be made against a computer system—from denial of service attacks to direct access attacks and exploits—and All Points employs the latest techniques to secure our customers’ property and data. We provide continuous security monitoring to ensure the safety of our customers’ networks and devices. In addition, we understand and respect the need to stay ahead of the competition, so we feel it is imperative to implement technology refresh in order to provide the latest technological advances in the area of cyber security."
+                },
+                {
+                    "subName": "Mobility",
+                    "subDescription": "In the world of mobility, technologies are quickly evolving, requiring our customers to regularly upgrade in order to receive the latest advances in technology. All Points works with a number of OEMs to provide cost-effective mobility solutions that include mobile devices and device components, such as tablets, radios, ultra-mobile PCs, laptops, and notebooks; wireless networks; and other mobile communication essentials to keep our customers ahead of the curve while protecting their vital data."
+                },
+                {
+                    "subName": "Cloud Computing",
+                    "subDescription": "All Points understands the importance of cloud computing in today’s technological environment, both to reduce costs and to enhance the capability to securely attain and share data. Virtualization has become a necessity for many of our customers by maximizing the effectiveness of shared resources, improving manageability, and reducing the need for maintenance, enabling them to rapidly adjust to meet fluctuating demands. All Points provides such cloud computing services as architecture integration, configuration and security; application deployment; compliance management; provisioning and end-user services."
+                },
+                {
+                    "subName": "Big Data",
+                    "subDescription": "When data is continuously growing, it is smarter to be proactive rather than reactive. As data sets become so large and complex that they become difficult to process using traditional database management tools, the challenges of curation, storage, information sharing, transfer, analysis and visualization become roadblocks to effective data management. To ensure proper capacity and management, All Points provides Big Data solutions experts, who specialize in data management and analytics. We design solutions to transform substantial amounts of data into strategic and operational subsets to meet the specific needs of our customers, allowing them to more easily analyze data to spot trends, perform research and reduce costs."
+                },
+                {
+                    "subName": "Additional Partners/Product Information",
+                    "subDescription": "All Points works closely with our customers to understand their needs, pain points, and long- and short-term objectives to create a best-fit strategy that will not only meet their current needs but provide them with cutting-edge technologies that position them to succeed in the future. We work with our valued partners to assist in this process, ensuring we provide our customers with effective, high-quality solutions that meet their technology goals while not ignoring necessary budgetary constraints. "
+                }
+            ]
+        }
+       
+    ]
+
+}

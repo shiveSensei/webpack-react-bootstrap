@@ -1,11 +1,25 @@
 const path = require("path");
+const devMode = process.env.NODE_ENV !== "production";
 const HTMLWebpackPlugin = require("html-webpack-plugin");
+const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 module.exports = {
     entry: "./src/index.js",
     output: {
         path: path.join(__dirname, "/dist"),
         filename: "index_bundle.js"
+    },
+    optimization: {
+        splitChunks: {
+            cacheGroups: {
+                styles: {
+                    name: "styles",
+                    test: /\.css$/,
+                    chunks: "all",
+                    enforce: true
+                }
+            }
+        }
     },
     module: {
         rules: [
@@ -19,22 +33,40 @@ module.exports = {
             },
             //rule for loading stylesheets, and applying css styles
             {
-                test: /\.css$/,
+                test: /\.(sa|sc|c)ss$/,
                 use: [
-                    { loader: "style-loader" },
+                    {
+                        loader: devMode
+                            ? "style-loader"
+                            : MiniCssExtractPlugin.loader
+                    },
                     {
                         loader: "css-loader",
                         options: {
-                            modules: true //turn this flag off if scoped css modules isn't being used
+                            modules: true
+                            // importLoaders: 1
                         }
-                    }
+                    },
+                    "sass-loader"
                 ]
-            }
+            },
+            //rule for loading images
+            {
+                test: /\.(png|svg|jpg|gif)$/,
+                use: ["file-loader"]
+            },
+           
         ]
     },
     plugins: [
         new HTMLWebpackPlugin({
             template: "./public/index.html"
+        }),
+        new MiniCssExtractPlugin({
+            // Options similar to the same options in webpackOptions.output
+            // both options are optional
+            filename: devMode ? "[name].css" : "[name].[hash].css",
+            chunkFilename: devMode ? "[id].css" : "[id].[hash].css"
         })
     ]
 };

@@ -26,7 +26,8 @@
  * ------------------------------------------------------------------- */
 
  .slide{
-     animation: slide 1s ease-in forwards
+     animation: slide 1s ease-in forwards;
+    // background: url('../../img/Logos/CMMI2.png')
  }
 
  @keyframes slide {
